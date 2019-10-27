@@ -32,6 +32,3 @@ cd client
 npm run build
 ```
 
-
-
-# react-social-network
