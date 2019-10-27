@@ -1,6 +1,6 @@
 > Social network for developers
 
-[Imgur](https://i.imgur.com/pRubukH.png)
+![Image description](https://i.imgur.com/pRubukH.png)
 
 
 ## Quick Start
