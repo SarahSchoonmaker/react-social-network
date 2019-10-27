@@ -1,6 +1,6 @@
-# DevConnector 2.0
-
 > Social network for developers
+
+[Imgur](https://i.imgur.com/pRubukH.png)
 
 
 ## Quick Start
